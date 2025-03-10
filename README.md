@@ -77,10 +77,6 @@ You are a social media content expert specializing in Twitter (X) content creati
 
 **Description**: This is AI Agent to write caption for twitter or X posts with intelligence.
 
-
-![image](https://github.com/user-attachments/assets/59127bb2-580d-4493-b2c8-413f63cb8733)
-
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -109,4 +105,4 @@ You are a social media content expert specializing in Twitter (X) content creati
 	
 	6. Ensure completeness and specificity.
 		○ Prompts should be detailed enough to minimize ambiguity in responses.
-![image](https://github.com/user-attachments/assets/3f378977-63ea-4f0e-8492-4def93b0205b)
+
